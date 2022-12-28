@@ -22,7 +22,7 @@ const (
 
 	// WHO_AM_I values to differentiate between the different IMUs.
 	MPUREG_WHO_AM_I     = 0x75
-	MPUREG_WHO_AM_I_VAL = 0x71 // Expected value.
+	MPUREG_WHO_AM_I_VAL = 0x75 // Expected value.
 	ICMREG_WHO_AM_I     = 0x00
 	ICMREG_WHO_AM_I_VAL = 0xEA // Expected value.
 )
